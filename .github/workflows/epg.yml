@@ -3,10 +3,10 @@ name: Actualitza EPG 3Cat
 on:
   schedule:
     - cron: "0 4 * * *"   # Cada dia a les 04:00 UTC (06:00 CEST)
-  workflow_dispatch:      # També es pot llançar manualment
+  workflow_dispatch:
 
 permissions:
-  contents: write   # Imprescindible per fer push
+  contents: write
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # Necessari per tenir historial complet
+          fetch-depth: 0
 
       - name: Configura Python
         uses: actions/setup-python@v5
