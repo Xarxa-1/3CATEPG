@@ -1,12 +1,12 @@
-name: Actualitza EPG TV3Cat
+name: Actualitza EPG 3Cat
 
 on:
   schedule:
-    - cron: "0 4 * * *"
-  workflow_dispatch:
+    - cron: "0 4 * * *"   # Cada dia a les 04:00 UTC (06:00 CEST)
+  workflow_dispatch:      # També es pot llançar manualment
 
 permissions:
-  contents: write   # <-- imprescindible per fer push
+  contents: write   # Imprescindible per fer push
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # <-- necessari per tenir historial complet
+          fetch-depth: 0   # Necessari per tenir historial complet
 
       - name: Configura Python
         uses: actions/setup-python@v5
@@ -32,7 +32,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/tv3cat.xml
+          git add output/epg.xml
           if git diff --staged --quiet; then
             echo "Sense canvis, no cal commit."
           else
