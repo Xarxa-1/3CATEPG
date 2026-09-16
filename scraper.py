@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-3CATEPG - Generador d'EPG per a TV3Cat
-Extreu la graella de programació de https://www.3cat.cat/tv3/programacio/canal-tv3cat/
-i genera un fitxer XMLTV.
+3CATEPG - Generador d'EPG per als canals de 3Cat
+Extreu la graella de programació de les URLs de 3Cat
+i genera un fitxer XMLTV amb tots els canals.
 """
 
-import re
 import sys
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta
 from pathlib import Path
 
 import requests
@@ -16,13 +15,38 @@ from bs4 import BeautifulSoup
 from lxml import etree
 
 # --- Configuració ---
-URL = "https://www.3cat.cat/tv3/programacio/canal-tv3cat/"
-CHANNEL_ID = "tv3cat"
-CHANNEL_NAME = "TV3Cat"
+CHANNELS = {
+    "tv3": {
+        "url": "https://www.3cat.cat/tv3/programacio/canal-tv3/",
+        "name": "TV3",
+    },
+    "c33": {
+        "url": "https://www.3cat.cat/tv3/programacio/canal-33/",
+        "name": "33",
+    },
+    "3catinfo": {
+        "url": "https://www.3cat.cat/tv3/programacio/canal-324/",
+        "name": "3CatInfo",
+    },
+    "esport3": {
+        "url": "https://www.3cat.cat/tv3/programacio/canal-esport3/",
+        "name": "Esport3",
+    },
+    "super3": {
+        "url": "https://www.3cat.cat/tv3/programacio/canal-super3/",
+        "name": "Super3",
+    },
+    "tv3cat": {
+        "url": "https://www.3cat.cat/tv3/programacio/canal-tv3cat/",
+        "name": "TV3Cat",
+    },
+}
+
 OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(exist_ok=True)
-XML_PATH = OUTPUT_DIR / "tv3cat.xml"
+XML_PATH = OUTPUT_DIR / "epg.xml"
 TZ_OFFSET = "+0200"  # CEST (estiu). A l'hivern caldria canviar a +0100.
+
 
 # --- Utilitats ---
 
@@ -68,16 +92,16 @@ def extract_programmes(soup: BeautifulSoup) -> list[dict]:
     return programmes
 
 
-def build_xmltv(programmes: list[dict]) -> str:
-    """Genera el document XMLTV."""
-    tv = etree.Element("tv", attrib={"generator-info-name": "3CATEPG"})
+def build_channel_element(tv: etree._Element, channel_id: str, name: str) -> None:
+    """Afegeix un element <channel> al document XMLTV."""
+    ch_elem = etree.SubElement(tv, "channel", id=channel_id)
+    display = etree.SubElement(ch_elem, "display-name")
+    display.text = name
 
-    # Canal
-    channel = etree.SubElement(tv, "channel", id=CHANNEL_ID)
-    display = etree.SubElement(channel, "display-name")
-    display.text = CHANNEL_NAME
 
-    # Ordena per hora d'inici
+def build_programme_elements(tv: etree._Element, channel_id: str,
+                             programmes: list[dict]) -> None:
+    """Afegeix els elements <programme> d'un canal al document XMLTV."""
     programmes.sort(key=lambda p: p["start"])
 
     for i, prog in enumerate(programmes):
@@ -91,7 +115,7 @@ def build_xmltv(programmes: list[dict]) -> str:
         p = etree.SubElement(tv, "programme", attrib={
             "start": parse_time_to_xmltv(start),
             "stop": parse_time_to_xmltv(stop),
-            "channel": CHANNEL_ID,
+            "channel": channel_id,
         })
         t = etree.SubElement(p, "title", lang="ca")
         t.text = prog["title"]
@@ -99,30 +123,48 @@ def build_xmltv(programmes: list[dict]) -> str:
             d = etree.SubElement(p, "desc", lang="ca")
             d.text = prog["desc"]
         if prog["image"]:
-            icon = etree.SubElement(p, "icon", src=prog["image"])
-
-    # Pretty print
-    xml_bytes = etree.tostring(tv, pretty_print=True, encoding="UTF-8",
-                               xml_declaration=True)
-    return xml_bytes.decode("utf-8")
+            etree.SubElement(p, "icon", src=prog["image"])
 
 
 def main():
-    print(f"Descarregant {URL}...")
-    resp = requests.get(URL, timeout=30)
-    resp.raise_for_status()
+    tv = etree.Element("tv", attrib={"generator-info-name": "3CATEPG"})
 
-    soup = BeautifulSoup(resp.text, "lxml")
-    programmes = extract_programmes(soup)
-    print(f"Trobats {len(programmes)} programes.")
+    total_programes = 0
+    canals_ok = 0
 
-    if not programmes:
-        print("Avís: no s'han trobat programes. Revisa el selector.")
+    for channel_id, info in CHANNELS.items():
+        print(f"Processant {info['name']} ({channel_id})...")
+        try:
+            resp = requests.get(info["url"], timeout=30)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"  Error descarregant {info['url']}: {e}")
+            continue
+
+        soup = BeautifulSoup(resp.text, "lxml")
+        programmes = extract_programmes(soup)
+        print(f"  Trobats {len(programmes)} programes.")
+
+        if not programmes:
+            print(f"  Avís: cap programa trobat per a {info['name']}, s'omet.")
+            continue
+
+        build_channel_element(tv, channel_id, info["name"])
+        build_programme_elements(tv, channel_id, programmes)
+
+        total_programes += len(programmes)
+        canals_ok += 1
+
+    if canals_ok == 0:
+        print("Error: no s'ha pogut processar cap canal.")
         sys.exit(1)
 
-    xml_str = build_xmltv(programmes)
-    XML_PATH.write_text(xml_str, encoding="utf-8")
-    print(f"Escrit {XML_PATH}")
+    xml_bytes = etree.tostring(tv, pretty_print=True, encoding="UTF-8",
+                               xml_declaration=True)
+    XML_PATH.write_text(xml_bytes.decode("utf-8"), encoding="utf-8")
+    print(f"\nEscrit {XML_PATH}")
+    print(f"Canals processats: {canals_ok}")
+    print(f"Total de programes: {total_programes}")
 
 
 if __name__ == "__main__":
