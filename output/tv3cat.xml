@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="3CATEPG">
+  <channel id="tv3cat">
+    <display-name>TV3Cat</display-name>
+  </channel>
+  <programme start="20260916060000 +0200" stop="20260916080000 +0200" channel="tv3cat">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
+  </programme>
+  <programme start="20260916080000 +0200" stop="20260916103000 +0200" channel="tv3cat">
+    <title lang="ca">Matins</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/3/1758135175231_326x184.jpg"/>
+  </programme>
+  <programme start="20260916103000 +0200" stop="20260916135500 +0200" channel="tv3cat">
+    <title lang="ca">Tot es mou</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/5/1747046914351_326x184.jpg"/>
+  </programme>
+  <programme start="20260916135500 +0200" stop="20260916143000 +0200" channel="tv3cat">
+    <title lang="ca">Telenotícies comarques</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
+  </programme>
+  <programme start="20260916143000 +0200" stop="20260916153000 +0200" channel="tv3cat">
+    <title lang="ca">Telenotícies migdia</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
+  </programme>
+  <programme start="20260916153000 +0200" stop="20260916155100 +0200" channel="tv3cat">
+    <title lang="ca">Cuines</title>
+    <desc lang="ca">Pastís cremós de licor d'arròs</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
+  </programme>
+  <programme start="20260916155100 +0200" stop="20260916155800 +0200" channel="tv3cat">
+    <title lang="ca">Cuines</title>
+    <desc lang="ca">Guisat d'aletes amb fruita</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
+  </programme>
+  <programme start="20260916155800 +0200" stop="20260916163600 +0200" channel="tv3cat">
+    <title lang="ca">Com si fos ahir</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1676977929474_326x184.jpg"/>
+  </programme>
+  <programme start="20260916163600 +0200" stop="20260916172200 +0200" channel="tv3cat">
+    <title lang="ca">Nervi</title>
+    <desc lang="ca">Qui posa fre a la imaginació?</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1713793594933_326x184.jpg"/>
+  </programme>
+  <programme start="20260916172200 +0200" stop="20260916191200 +0200" channel="tv3cat">
+    <title lang="ca">La Selva</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/1/1725541911214_326x184.jpg"/>
+  </programme>
+  <programme start="20260916191200 +0200" stop="20260916201500 +0200" channel="tv3cat">
+    <title lang="ca">Atrapa'm si pots</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/3/1700643646439_326x184.jpg"/>
+  </programme>
+  <programme start="20260916201500 +0200" stop="20260916210000 +0200" channel="tv3cat">
+    <title lang="ca">Està passant</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1757052591567_326x184.jpg"/>
+  </programme>
+  <programme start="20260916210000 +0200" stop="20260916221100 +0200" channel="tv3cat">
+    <title lang="ca">Telenotícies vespre</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
+  </programme>
+  <programme start="20260916221100 +0200" stop="20260916233000 +0200" channel="tv3cat">
+    <title lang="ca">La Riera</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/8/1472818695582_326x184.jpg"/>
+  </programme>
+  <programme start="20260916233000 +0200" stop="20260917000100 +0200" channel="tv3cat">
+    <title lang="ca">L'un per l'altre</title>
+    <desc lang="ca">Les festes d'Horta</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/2/1642497905029_326x184.jpg"/>
+  </programme>
+  <programme start="20260917000100 +0200" stop="20260917003000 +0200" channel="tv3cat">
+    <title lang="ca">Blanc sobre blanc</title>
+    <desc lang="ca">Matèria</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1415112395074_326x184.jpg"/>
+  </programme>
+  <programme start="20260917003000 +0200" stop="20260917004100 +0200" channel="tv3cat">
+    <title lang="ca">Talent creatiu</title>
+    <desc lang="ca">Sasha Chaves, colorista natural</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/4/1715266541945_326x184.jpg"/>
+  </programme>
+  <programme start="20260917004100 +0200" stop="20260917005100 +0200" channel="tv3cat">
+    <title lang="ca">Gran!</title>
+    <desc lang="ca">Plats Bruts: la sitcom immortal</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1714398255920_326x184.jpg"/>
+  </programme>
+  <programme start="20260917005100 +0200" stop="20260917023900 +0200" channel="tv3cat">
+    <title lang="ca">Mésnit</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/2/1758101367527_326x184.jpg"/>
+  </programme>
+  <programme start="20260917023900 +0200" stop="20260917040000 +0200" channel="tv3cat">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
+  </programme>
+  <programme start="20260917040000 +0200" stop="20260917050000 +0200" channel="tv3cat">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <desc lang="ca">DR. GO</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/4/1744620824948_326x184.jpg"/>
+  </programme>
+  <programme start="20260917050000 +0200" stop="20260917054500 +0200" channel="tv3cat">
+    <title lang="ca">Cava de Blues</title>
+    <desc lang="ca">Víctor Bocanegra</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/8/1743747475683_326x184.jpg"/>
+  </programme>
+  <programme start="20260917054500 +0200" stop="20260917054900 +0200" channel="tv3cat">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">Txell Sota - Entre la confusió</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1576838356420_326x184.jpg"/>
+  </programme>
+  <programme start="20260917054900 +0200" stop="20260917055500 +0200" channel="tv3cat">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">Alidé Sans - Passat deman</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1576838356420_326x184.jpg"/>
+  </programme>
+  <programme start="20260917055500 +0200" stop="20260917055800 +0200" channel="tv3cat">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">Jazzwoman &amp; Lildami - Anem a tot</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1576838356420_326x184.jpg"/>
+  </programme>
+  <programme start="20260917055800 +0200" stop="20260917065800 +0200" channel="tv3cat">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">Lluc - Temps perdut (2034)</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1576838356420_326x184.jpg"/>
+  </programme>
+</tv>
