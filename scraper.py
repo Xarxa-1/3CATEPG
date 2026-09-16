@@ -25,7 +25,7 @@ CHANNELS = {
         "name": "33",
     },
     "3catinfo": {
-        "url": "https://www.3cat.cat/tv3/programacio/canal-324/",
+        "url": "https://www.3cat.cat/tv3/programacio/canal-3catinfo-tv/",
         "name": "3CatInfo",
     },
     "esport3": {
