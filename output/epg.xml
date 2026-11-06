@@ -3,581 +3,609 @@
   <channel id="tv3">
     <display-name>TV3</display-name>
   </channel>
-  <programme start="20261105060000 +0200" stop="20261105080000 +0200" channel="tv3">
+  <programme start="20261106060000 +0200" stop="20261106080000 +0200" channel="tv3">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261105080000 +0200" stop="20261105102900 +0200" channel="tv3">
+  <programme start="20261106080000 +0200" stop="20261106103000 +0200" channel="tv3">
     <title lang="ca">Matins</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/3/1758135175231_326x184.jpg"/>
   </programme>
-  <programme start="20261105102900 +0200" stop="20261105135500 +0200" channel="tv3">
+  <programme start="20261106103000 +0200" stop="20261106135500 +0200" channel="tv3">
     <title lang="ca">Tot es mou</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/5/1747046914351_326x184.jpg"/>
   </programme>
-  <programme start="20261105135500 +0200" stop="20261105143000 +0200" channel="tv3">
+  <programme start="20261106135500 +0200" stop="20261106143000 +0200" channel="tv3">
     <title lang="ca">Telenotícies comarques</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
   </programme>
-  <programme start="20261105143000 +0200" stop="20261105153000 +0200" channel="tv3">
+  <programme start="20261106143000 +0200" stop="20261106153000 +0200" channel="tv3">
     <title lang="ca">Telenotícies migdia</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
   </programme>
-  <programme start="20261105153000 +0200" stop="20261105155200 +0200" channel="tv3">
-    <title lang="ca">Cuines</title>
-    <desc lang="ca">Steak tàrtar al moll de l'os</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
-  </programme>
-  <programme start="20261105155200 +0200" stop="20261105160100 +0200" channel="tv3">
+  <programme start="20261106153000 +0200" stop="20261106155200 +0200" channel="tv3">
     <title lang="ca">Cuines</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
   </programme>
-  <programme start="20261105160100 +0200" stop="20261105164300 +0200" channel="tv3">
+  <programme start="20261106155200 +0200" stop="20261106160100 +0200" channel="tv3">
+    <title lang="ca">Cuines</title>
+    <desc lang="ca">Cuscús de piquillo i cansalada</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
+  </programme>
+  <programme start="20261106160100 +0200" stop="20261106164200 +0200" channel="tv3">
     <title lang="ca">Com si fos ahir</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1676977929474_326x184.jpg"/>
   </programme>
-  <programme start="20261105164300 +0200" stop="20261105172900 +0200" channel="tv3">
+  <programme start="20261106164200 +0200" stop="20261106172700 +0200" channel="tv3">
     <title lang="ca">El paradís de les senyores</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1715696617833_326x184.jpg"/>
   </programme>
-  <programme start="20261105172900 +0200" stop="20261105191000 +0200" channel="tv3">
+  <programme start="20261106172700 +0200" stop="20261106190900 +0200" channel="tv3">
     <title lang="ca">La Selva</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/4/1/1725541911214_326x184.jpg"/>
   </programme>
-  <programme start="20261105191000 +0200" stop="20261105201500 +0200" channel="tv3">
+  <programme start="20261106190900 +0200" stop="20261106201300 +0200" channel="tv3">
     <title lang="ca">Atrapa'm si pots</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/3/1700643646439_326x184.jpg"/>
   </programme>
-  <programme start="20261105201500 +0200" stop="20261105210000 +0200" channel="tv3">
+  <programme start="20261106201300 +0200" stop="20261106210000 +0200" channel="tv3">
     <title lang="ca">Està passant</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1757052591567_326x184.jpg"/>
   </programme>
-  <programme start="20261105210000 +0200" stop="20261105220700 +0200" channel="tv3">
+  <programme start="20261106210000 +0200" stop="20261106220700 +0200" channel="tv3">
     <title lang="ca">Telenotícies vespre</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
   </programme>
-  <programme start="20261105220700 +0200" stop="20261105224800 +0200" channel="tv3">
-    <title lang="ca">Polònia</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/4/1789742207649_326x184.jpg"/>
+  <programme start="20261106220700 +0200" stop="20261107000300 +0200" channel="tv3">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">L'última sessió de Freud</desc>
+    <icon src="/_resources/icones/corporatiu/blanc/mes.svg?v=3.2611.1"/>
   </programme>
-  <programme start="20261105224800 +0200" stop="20261105230500 +0200" channel="tv3">
-    <title lang="ca">Crackòvia</title>
-    <desc lang="ca">Kylian Mbappé fa enfadar la Xina i Lamine Yamal balla a ritme jamaicà</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1792415579747_326x184.jpg"/>
+  <programme start="20261107000300 +0200" stop="20261107015400 +0200" channel="tv3">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">La impaciència del cor</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/6/1735025542560.jpg"/>
   </programme>
-  <programme start="20261105230500 +0200" stop="20261105234900 +0200" channel="tv3">
-    <title lang="ca">APM?</title>
-    <icon src="https://img.3cat.cat/multimedia/png/7/3/1694788403037_326x184.png"/>
-  </programme>
-  <programme start="20261105234900 +0200" stop="20261106003800 +0200" channel="tv3">
-    <title lang="ca">Nervi</title>
-    <desc lang="ca">Ningú està preparat per triomfar, amb Miguel Ángel Blanca i Berta Prieto</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/4/1791196851941_326x184.jpg"/>
-  </programme>
-  <programme start="20261106003800 +0200" stop="20261106022500 +0200" channel="tv3">
+  <programme start="20261107015400 +0200" stop="20261107030900 +0200" channel="tv3">
     <title lang="ca">Mésnit</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/2/1758101367527_326x184.jpg"/>
   </programme>
-  <programme start="20261106022500 +0200" stop="20261106043000 +0200" channel="tv3">
+  <programme start="20261107030900 +0200" stop="20261107043000 +0200" channel="tv3">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261106043000 +0200" stop="20261106051400 +0200" channel="tv3">
+  <programme start="20261107043000 +0200" stop="20261107051400 +0200" channel="tv3">
     <title lang="ca">Cava de Blues</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/3/8/1743747475683_326x184.jpg"/>
   </programme>
-  <programme start="20261106051400 +0200" stop="20261106061400 +0200" channel="tv3">
+  <programme start="20261107051400 +0200" stop="20261107061400 +0200" channel="tv3">
     <title lang="ca">Fusió i swing a l'estudi</title>
+    <desc lang="ca">JOAN SANMARTÍ "QUATRE ELEMENTS"</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/3/8/1744619594783_326x184.jpg"/>
   </programme>
   <channel id="c33">
     <display-name>33</display-name>
   </channel>
-  <programme start="20261105060000 +0200" stop="20261105060400 +0200" channel="c33">
+  <programme start="20261106060000 +0200" stop="20261106060200 +0200" channel="c33">
     <title lang="ca">Sense títol</title>
-    <desc lang="ca">Dem feat. Sílvia Tomàs - Cap destí</desc>
+    <desc lang="ca">Joan Masdéu - No en tens prou</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1576838356420_326x184.jpg"/>
   </programme>
-  <programme start="20261105060400 +0200" stop="20261105060700 +0200" channel="c33">
-    <title lang="ca">Sense títol</title>
-    <desc lang="ca">Cronopios - La sèptima creació</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1576838356420_326x184.jpg"/>
+  <programme start="20261106060200 +0200" stop="20261106060700 +0200" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <desc lang="ca">Aiguamolls de l''Alt Empordà</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1779099335763_326x184.jpg"/>
   </programme>
-  <programme start="20261105060700 +0200" stop="20261105060800 +0200" channel="c33">
-    <title lang="ca">Sense títol</title>
-    <desc lang="ca">Porto Bello &amp; Nerea Rodríguez - Som de foc</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1576838356420_326x184.jpg"/>
+  <programme start="20261106060700 +0200" stop="20261106061200 +0200" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1779099335763_326x184.jpg"/>
   </programme>
-  <programme start="20261105060800 +0200" stop="20261105063300 +0200" channel="c33">
+  <programme start="20261106061200 +0200" stop="20261106063400 +0200" channel="c33">
     <title lang="ca">Les Feres</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/9/1714484312199_326x184.jpg"/>
   </programme>
-  <programme start="20261105063300 +0200" stop="20261105070300 +0200" channel="c33">
+  <programme start="20261106063400 +0200" stop="20261106065300 +0200" channel="c33">
+    <title lang="ca">Les Feres</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/9/1714484312199_326x184.jpg"/>
+  </programme>
+  <programme start="20261106065300 +0200" stop="20261106072600 +0200" channel="c33">
     <title lang="ca">Animals arquitectes</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1761118125789_326x184.jpg"/>
   </programme>
-  <programme start="20261105070300 +0200" stop="20261105072900 +0200" channel="c33">
+  <programme start="20261106072600 +0200" stop="20261106075900 +0200" channel="c33">
     <title lang="ca">Animals arquitectes</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1761118125789_326x184.jpg"/>
   </programme>
-  <programme start="20261105072900 +0200" stop="20261105082000 +0200" channel="c33">
+  <programme start="20261106075900 +0200" stop="20261106085100 +0200" channel="c33">
     <title lang="ca">Gent de món</title>
-    <desc lang="ca">El Mar del Carib (2a part)</desc>
+    <desc lang="ca">Creuer dels Tres Mars: l'Adriàtic, el Jònic i l'Egeu (1a part)</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/5/5/1434614114055_326x184.jpg"/>
   </programme>
-  <programme start="20261105082000 +0200" stop="20261105084600 +0200" channel="c33">
+  <programme start="20261106085100 +0200" stop="20261106091600 +0200" channel="c33">
     <title lang="ca">Salpem!</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/9/1724669894297_326x184.jpg"/>
   </programme>
-  <programme start="20261105084600 +0200" stop="20261105091700 +0200" channel="c33">
+  <programme start="20261106091600 +0200" stop="20261106094600 +0200" channel="c33">
     <title lang="ca">Tocats de l'ala</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/1/1442307006117_326x184.jpg"/>
   </programme>
-  <programme start="20261105091700 +0200" stop="20261105094500 +0200" channel="c33">
+  <programme start="20261106094600 +0200" stop="20261106101500 +0200" channel="c33">
     <title lang="ca">Animals arquitectes</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1761118125789_326x184.jpg"/>
   </programme>
-  <programme start="20261105094500 +0200" stop="20261105100200 +0200" channel="c33">
+  <programme start="20261106101500 +0200" stop="20261106104000 +0200" channel="c33">
     <title lang="ca">Marcians</title>
-    <desc lang="ca">Vicenç Huedo, ensenyar a mirar</desc>
+    <desc lang="ca">Jugar, competir, guanyar. Els finalistes del Premi Òmnium de novel·la.</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1704993896547_326x184.jpg"/>
   </programme>
-  <programme start="20261105100200 +0200" stop="20261105102900 +0200" channel="c33">
+  <programme start="20261106104000 +0200" stop="20261106110800 +0200" channel="c33">
     <title lang="ca">Marcians</title>
-    <desc lang="ca">Qui soc, qui vaig ser, qui vull ser</desc>
+    <desc lang="ca">Els joves no tenen memòria històrica... Sí? Segur?</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1704993896547_326x184.jpg"/>
   </programme>
-  <programme start="20261105102900 +0200" stop="20261105110800 +0200" channel="c33">
+  <programme start="20261106110800 +0200" stop="20261106114900 +0200" channel="c33">
     <title lang="ca">Tot el temps del món</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/0/1745934379900_326x184.jpg"/>
   </programme>
-  <programme start="20261105110800 +0200" stop="20261105114700 +0200" channel="c33">
+  <programme start="20261106114900 +0200" stop="20261106122800 +0200" channel="c33">
     <title lang="ca">Tot el temps del món</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/0/1745934379900_326x184.jpg"/>
   </programme>
-  <programme start="20261105114700 +0200" stop="20261105115400 +0200" channel="c33">
+  <programme start="20261106122800 +0200" stop="20261106123400 +0200" channel="c33">
     <title lang="ca">Cuines</title>
-    <desc lang="ca">Vichyssoise de pera amb llissa</desc>
+    <desc lang="ca">Amanida de quinoa i pernil cuit amb vinagreta d¿avellanes</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
   </programme>
-  <programme start="20261105115400 +0200" stop="20261105120200 +0200" channel="c33">
+  <programme start="20261106123400 +0200" stop="20261106124100 +0200" channel="c33">
     <title lang="ca">Cuines</title>
-    <desc lang="ca">Espaguetis a la siciliana</desc>
+    <desc lang="ca">Carpaccio de pernil cuit amb formatge, pera i alfàbrega</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
   </programme>
-  <programme start="20261105120200 +0200" stop="20261105121000 +0200" channel="c33">
+  <programme start="20261106124100 +0200" stop="20261106124800 +0200" channel="c33">
     <title lang="ca">Cuines</title>
+    <desc lang="ca">Porrussalda de bacallà</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
   </programme>
-  <programme start="20261105121000 +0200" stop="20261105121700 +0200" channel="c33">
+  <programme start="20261106124800 +0200" stop="20261106125500 +0200" channel="c33">
     <title lang="ca">Cuines</title>
-    <desc lang="ca">Gelat de pernil cuit amb tomàquet i pa amb oli</desc>
+    <desc lang="ca">Crema de llimona amb galeta</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
   </programme>
-  <programme start="20261105121700 +0200" stop="20261105122400 +0200" channel="c33">
+  <programme start="20261106125500 +0200" stop="20261106130200 +0200" channel="c33">
     <title lang="ca">Cuines</title>
-    <desc lang="ca">Pa amb tomata i pernil cuit</desc>
+    <desc lang="ca">Fricandó amb moixernons</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
   </programme>
-  <programme start="20261105122400 +0200" stop="20261105131900 +0200" channel="c33">
+  <programme start="20261106130200 +0200" stop="20261106135700 +0200" channel="c33">
     <title lang="ca">Atrapa'm si pots</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/3/1700643646439_326x184.jpg"/>
   </programme>
-  <programme start="20261105131900 +0200" stop="20261105141400 +0200" channel="c33">
+  <programme start="20261106135700 +0200" stop="20261106144800 +0200" channel="c33">
     <title lang="ca">Atrapa'm si pots</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/3/1700643646439_326x184.jpg"/>
   </programme>
-  <programme start="20261105141400 +0200" stop="20261105142300 +0200" channel="c33">
-    <title lang="ca">Gran!</title>
-    <desc lang="ca">Plats Bruts: la sitcom immortal</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1714398255920_326x184.jpg"/>
+  <programme start="20261106144800 +0200" stop="20261106153500 +0200" channel="c33">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">Millors moments - setmana 16</desc>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261105142300 +0200" stop="20261105151000 +0200" channel="c33">
+  <programme start="20261106153500 +0200" stop="20261106162200 +0200" channel="c33">
     <title lang="ca">Sense títol</title>
     <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261105151000 +0200" stop="20261105155600 +0200" channel="c33">
-    <title lang="ca">Sense títol</title>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
-  <programme start="20261105155600 +0200" stop="20261105163100 +0200" channel="c33">
+  <programme start="20261106162200 +0200" stop="20261106165700 +0200" channel="c33">
     <title lang="ca">QuèQui</title>
+    <desc lang="ca">Catalunya a la deriva</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/8/2/1712157813328_326x184.jpg"/>
   </programme>
-  <programme start="20261105163100 +0200" stop="20261105165400 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <desc lang="ca">Fumar, matar a distància</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/9/1415289086595_326x184.jpg"/>
-  </programme>
-  <programme start="20261105165400 +0200" stop="20261105172100 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <desc lang="ca">Rapinyaires: Predadors del cel</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/9/1415289086595_326x184.jpg"/>
-  </programme>
-  <programme start="20261105172100 +0200" stop="20261105174800 +0200" channel="c33">
+  <programme start="20261106165700 +0200" stop="20261106172300 +0200" channel="c33">
     <title lang="ca">Quèquicom</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/5/9/1415289086595_326x184.jpg"/>
   </programme>
-  <programme start="20261105174800 +0200" stop="20261105181700 +0200" channel="c33">
-    <title lang="ca">Patrimonis</title>
-    <desc lang="ca">Identitat (conjunt romànic de la Vall de Boí)</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/6/1791899688062_326x184.jpg"/>
+  <programme start="20261106172300 +0200" stop="20261106174900 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <desc lang="ca">Redibuixant la Memòria Històrica</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/9/1415289086595_326x184.jpg"/>
   </programme>
-  <programme start="20261105181700 +0200" stop="20261105191200 +0200" channel="c33">
+  <programme start="20261106174900 +0200" stop="20261106181700 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/9/1415289086595_326x184.jpg"/>
+  </programme>
+  <programme start="20261106181700 +0200" stop="20261106191100 +0200" channel="c33">
     <title lang="ca">Savis i sàvies</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/3/1779431974530_326x184.jpg"/>
   </programme>
-  <programme start="20261105191200 +0200" stop="20261105200800 +0200" channel="c33">
+  <programme start="20261106191100 +0200" stop="20261106200500 +0200" channel="c33">
     <title lang="ca">Savis i sàvies</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/3/1779431974530_326x184.jpg"/>
   </programme>
-  <programme start="20261105200800 +0200" stop="20261105210300 +0200" channel="c33">
-    <title lang="ca">Dibuixar pel canvi</title>
-    <desc lang="ca">India. Dibuixant una línia</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/5/1745493545957_326x184.jpg"/>
-  </programme>
-  <programme start="20261105210300 +0200" stop="20261105213700 +0200" channel="c33">
-    <title lang="ca">Jet lag</title>
-    <desc lang="ca">Pessigolles a l'estómac</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/8/1587473163580_326x184.jpg"/>
-  </programme>
-  <programme start="20261105213700 +0200" stop="20261105220400 +0200" channel="c33">
-    <title lang="ca">Jet lag</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/8/1587473163580_326x184.jpg"/>
-  </programme>
-  <programme start="20261105220400 +0200" stop="20261105225500 +0200" channel="c33">
-    <title lang="ca">Sense títol</title>
-    <desc lang="ca">El got de plàstic reutilitzable</desc>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
-  <programme start="20261105225500 +0200" stop="20261105233600 +0200" channel="c33">
-    <title lang="ca">Nervi</title>
-    <desc lang="ca">Ningú està preparat per triomfar, amb Miguel Ángel Blanca i Berta Prieto</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/4/1791196851941_326x184.jpg"/>
-  </programme>
-  <programme start="20261105233600 +0200" stop="20261106003200 +0200" channel="c33">
-    <title lang="ca">Savis i sàvies</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/3/1779431974530_326x184.jpg"/>
-  </programme>
-  <programme start="20261106003200 +0200" stop="20261106012600 +0200" channel="c33">
+  <programme start="20261106200500 +0200" stop="20261106210200 +0200" channel="c33">
     <title lang="ca">Dibuixar pel canvi</title>
     <desc lang="ca">Russia. L'arbre de la violència</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/5/1745493545957_326x184.jpg"/>
   </programme>
-  <programme start="20261106012600 +0200" stop="20261106015100 +0200" channel="c33">
-    <title lang="ca">La pell dels murs</title>
-    <desc lang="ca">Rock Blackblock-Xavier Artigas</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/8/1643204702186_326x184.jpg"/>
+  <programme start="20261106210200 +0200" stop="20261106211300 +0200" channel="c33">
+    <title lang="ca">Gran!</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1714398255920_326x184.jpg"/>
   </programme>
-  <programme start="20261106015100 +0200" stop="20261106021700 +0200" channel="c33">
-    <title lang="ca">La pell dels murs</title>
-    <desc lang="ca">Jorge Rodríguez Gerada-Laura Herrero</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/8/1643204702186_326x184.jpg"/>
+  <programme start="20261106211300 +0200" stop="20261106213800 +0200" channel="c33">
+    <title lang="ca">Jet lag</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/8/1587473163580_326x184.jpg"/>
   </programme>
-  <programme start="20261106021700 +0200" stop="20261106031400 +0200" channel="c33">
+  <programme start="20261106213800 +0200" stop="20261106220300 +0200" channel="c33">
+    <title lang="ca">Jet lag</title>
+    <desc lang="ca">T'acompanyo en el sentiment</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/8/1587473163580_326x184.jpg"/>
+  </programme>
+  <programme start="20261106220300 +0200" stop="20261106225300 +0200" channel="c33">
     <title lang="ca">Sense títol</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/0/1601630032104.jpg"/>
-  </programme>
-  <programme start="20261106031400 +0200" stop="20261106034300 +0200" channel="c33">
-    <title lang="ca">Laberints</title>
-    <desc lang="ca">Laberints de feines i treballs</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/9/1708447622495_326x184.jpg"/>
-  </programme>
-  <programme start="20261106034300 +0200" stop="20261106041400 +0200" channel="c33">
-    <title lang="ca">Laberints</title>
-    <desc lang="ca">Laberints de miralls i miralls</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/9/1708447622495_326x184.jpg"/>
-  </programme>
-  <programme start="20261106041400 +0200" stop="20261106044000 +0200" channel="c33">
-    <title lang="ca">El retorn de les lluernes</title>
-    <desc lang="ca">Roger i "La mà esquerra de la foscor"</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/1/1647259465117_326x184.jpg"/>
-  </programme>
-  <programme start="20261106044000 +0200" stop="20261106050700 +0200" channel="c33">
-    <title lang="ca">El retorn de les lluernes</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/1/1647259465117_326x184.jpg"/>
-  </programme>
-  <programme start="20261106050700 +0200" stop="20261106060700 +0200" channel="c33">
-    <title lang="ca">Sense títol</title>
-    <desc lang="ca">Millors moments - setmana 6</desc>
+    <desc lang="ca">Millors moments - setmana 10</desc>
     <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+  </programme>
+  <programme start="20261106225300 +0200" stop="20261106231900 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <desc lang="ca">Les illes Canàries. Els prodigis de l'enginy</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/5/1767968830353_326x184.jpg"/>
+  </programme>
+  <programme start="20261106231900 +0200" stop="20261106234400 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <desc lang="ca">Cap Verd. Els irreductibles del cràter</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/5/1767968830353_326x184.jpg"/>
+  </programme>
+  <programme start="20261106234400 +0200" stop="20261107000900 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <desc lang="ca">El mont Fuji. Una tradició japonesa</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/5/1767968830353_326x184.jpg"/>
+  </programme>
+  <programme start="20261107000900 +0200" stop="20261107003400 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <desc lang="ca">Etna, la muntanya de les muntanyes</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/5/1767968830353_326x184.jpg"/>
+  </programme>
+  <programme start="20261107003400 +0200" stop="20261107012600 +0200" channel="c33">
+    <title lang="ca">Philippe Echaroux, il.luminar el món</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/1/1784620928314_326x184.jpg"/>
+  </programme>
+  <programme start="20261107012600 +0200" stop="20261107024500 +0200" channel="c33">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">Bucarest, la memòria perduda</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1736850262271.jpg"/>
+  </programme>
+  <programme start="20261107024500 +0200" stop="20261107031600 +0200" channel="c33">
+    <title lang="ca">Laberints</title>
+    <desc lang="ca">Laberints populars i privats</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/9/1708447622495_326x184.jpg"/>
+  </programme>
+  <programme start="20261107031600 +0200" stop="20261107034800 +0200" channel="c33">
+    <title lang="ca">Laberints</title>
+    <desc lang="ca">Laberints de parelles i relacions</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/9/1708447622495_326x184.jpg"/>
+  </programme>
+  <programme start="20261107034800 +0200" stop="20261107041300 +0200" channel="c33">
+    <title lang="ca">El retorn de les lluernes</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/1/1647259465117_326x184.jpg"/>
+  </programme>
+  <programme start="20261107041300 +0200" stop="20261107043800 +0200" channel="c33">
+    <title lang="ca">El retorn de les lluernes</title>
+    <desc lang="ca">Cristina i "El sentit d'un final"</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/1/1647259465117_326x184.jpg"/>
+  </programme>
+  <programme start="20261107043800 +0200" stop="20261107045800 +0200" channel="c33">
+    <title lang="ca">Les Feres</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/9/1714484312199_326x184.jpg"/>
+  </programme>
+  <programme start="20261107045800 +0200" stop="20261107054500 +0200" channel="c33">
+    <title lang="ca">Sense títol</title>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+  </programme>
+  <programme start="20261107054500 +0200" stop="20261107064500 +0200" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1779099335763_326x184.jpg"/>
   </programme>
   <channel id="3catinfo">
     <display-name>3CatInfo</display-name>
   </channel>
-  <programme start="20261105060000 +0200" stop="20261105080000 +0200" channel="3catinfo">
+  <programme start="20261106060000 +0200" stop="20261106080000 +0200" channel="3catinfo">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261105080000 +0200" stop="20261105103000 +0200" channel="3catinfo">
+  <programme start="20261106080000 +0200" stop="20261106103000 +0200" channel="3catinfo">
     <title lang="ca">Matins</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/3/1758135175231_326x184.jpg"/>
   </programme>
-  <programme start="20261105103000 +0200" stop="20261105120000 +0200" channel="3catinfo">
+  <programme start="20261106103000 +0200" stop="20261106120000 +0200" channel="3catinfo">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261105120000 +0200" stop="20261105135500 +0200" channel="3catinfo">
+  <programme start="20261106120000 +0200" stop="20261106135500 +0200" channel="3catinfo">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261105135500 +0200" stop="20261105143000 +0200" channel="3catinfo">
+  <programme start="20261106135500 +0200" stop="20261106143000 +0200" channel="3catinfo">
     <title lang="ca">Telenotícies comarques</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
   </programme>
-  <programme start="20261105143000 +0200" stop="20261105153000 +0200" channel="3catinfo">
+  <programme start="20261106143000 +0200" stop="20261106153000 +0200" channel="3catinfo">
     <title lang="ca">Telenotícies migdia</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
   </programme>
-  <programme start="20261105153000 +0200" stop="20261105163000 +0200" channel="3catinfo">
+  <programme start="20261106153000 +0200" stop="20261106163000 +0200" channel="3catinfo">
     <title lang="ca">Sense títol</title>
     <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261105163000 +0200" stop="20261105170000 +0200" channel="3catinfo">
+  <programme start="20261106163000 +0200" stop="20261106170000 +0200" channel="3catinfo">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261105170000 +0200" stop="20261105183000 +0200" channel="3catinfo">
+  <programme start="20261106170000 +0200" stop="20261106183000 +0200" channel="3catinfo">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261105183000 +0200" stop="20261105200000 +0200" channel="3catinfo">
+  <programme start="20261106183000 +0200" stop="20261106200000 +0200" channel="3catinfo">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261105200000 +0200" stop="20261105210000 +0200" channel="3catinfo">
+  <programme start="20261106200000 +0200" stop="20261106210000 +0200" channel="3catinfo">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261105210000 +0200" stop="20261105220500 +0200" channel="3catinfo">
+  <programme start="20261106210000 +0200" stop="20261106220500 +0200" channel="3catinfo">
     <title lang="ca">Telenotícies vespre</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
   </programme>
-  <programme start="20261105220500 +0200" stop="20261106000000 +0200" channel="3catinfo">
+  <programme start="20261106220500 +0200" stop="20261106233000 +0200" channel="3catinfo">
     <title lang="ca">Mésnit</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/2/1758101367527_326x184.jpg"/>
   </programme>
-  <programme start="20261106000000 +0200" stop="20261106003000 +0200" channel="3catinfo">
+  <programme start="20261106233000 +0200" stop="20261107003000 +0200" channel="3catinfo">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261106003000 +0200" stop="20261106010000 +0200" channel="3catinfo">
+  <programme start="20261107003000 +0200" stop="20261107010000 +0200" channel="3catinfo">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261106010000 +0200" stop="20261106020000 +0200" channel="3catinfo">
+  <programme start="20261107010000 +0200" stop="20261107020000 +0200" channel="3catinfo">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>Esport3</display-name>
   </channel>
-  <programme start="20261105061900 +0200" stop="20261105064100 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1758883283889_326x184.jpg"/>
+  <programme start="20261106060100 +0200" stop="20261106061500 +0200" channel="esport3">
+    <title lang="ca">Zona UFEC</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1416386197038_326x184.jpg"/>
   </programme>
-  <programme start="20261105064100 +0200" stop="20261105081500 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <desc lang="ca">Rendits a Raphinha; els gols de la Champions i "El predicador"</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1689084008067_326x184.jpg"/>
-  </programme>
-  <programme start="20261105081500 +0200" stop="20261105100100 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <desc lang="ca">Lietkabelis-Kids&amp;Us Manresa / Eurocup / J6</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/2/1647942883529_326x184.jpg"/>
-  </programme>
-  <programme start="20261105100100 +0200" stop="20261105105700 +0200" channel="esport3">
-    <title lang="ca">Experiència Catalana</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/8/1778669332782_326x184.jpg"/>
-  </programme>
-  <programme start="20261105105700 +0200" stop="20261105112700 +0200" channel="esport3">
-    <title lang="ca">GR Pirineus</title>
-    <desc lang="ca">Comença un dolç viatge</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/2/1697637096729_326x184.jpg"/>
-  </programme>
-  <programme start="20261105112700 +0200" stop="20261105130000 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <desc lang="ca">Rendits a Raphinha; els gols de la Champions i "El predicador"</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1689084008067_326x184.jpg"/>
-  </programme>
-  <programme start="20261105130000 +0200" stop="20261105150300 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/3/1630912974030_326x184.jpg"/>
-  </programme>
-  <programme start="20261105150300 +0200" stop="20261105153000 +0200" channel="esport3">
-    <title lang="ca">Catalunya des de l'aire</title>
-    <desc lang="ca">Conca de barberà, garrigues, pla d'urgell</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/7/1717678980879_326x184.jpg"/>
-  </programme>
-  <programme start="20261105153000 +0200" stop="20261105161400 +0200" channel="esport3">
-    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1658909255463_326x184.jpg"/>
-  </programme>
-  <programme start="20261105161400 +0200" stop="20261105165800 +0200" channel="esport3">
-    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1658909255463_326x184.jpg"/>
-  </programme>
-  <programme start="20261105165800 +0200" stop="20261105172400 +0200" channel="esport3">
-    <title lang="ca">Catalunya salvatge</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/4/1717587057145_326x184.jpg"/>
-  </programme>
-  <programme start="20261105172400 +0200" stop="20261105173500 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <desc lang="ca">Eivissa Sprint Triatló</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951_326x184.jpg"/>
-  </programme>
-  <programme start="20261105173500 +0200" stop="20261105175800 +0200" channel="esport3">
-    <title lang="ca">Espòiler</title>
-    <desc lang="ca">El Ford Kuga BlueCruise, el Nissan Leaf, el Zeekr 9X i les novetats de Denza.</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1681458627275_326x184.jpg"/>
-  </programme>
-  <programme start="20261105175800 +0200" stop="20261105190000 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/3/1630912974030_326x184.jpg"/>
-  </programme>
-  <programme start="20261105190000 +0200" stop="20261105203000 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/7/1773845070973_326x184.jpg"/>
-  </programme>
-  <programme start="20261105203000 +0200" stop="20261105210000 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/3/1630912974030_326x184.jpg"/>
-  </programme>
-  <programme start="20261105210000 +0200" stop="20261105223100 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/7/1773845070973_326x184.jpg"/>
-  </programme>
-  <programme start="20261105223100 +0200" stop="20261105230000 +0200" channel="esport3">
+  <programme start="20261106061500 +0200" stop="20261106064200 +0200" channel="esport3">
     <title lang="ca">Top gols La Lliga</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951_326x184.jpg"/>
   </programme>
-  <programme start="20261105230000 +0200" stop="20261106003000 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1689084008067_326x184.jpg"/>
-  </programme>
-  <programme start="20261106003000 +0200" stop="20261106005000 +0200" channel="esport3">
+  <programme start="20261106064200 +0200" stop="20261106065800 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1758883283889_326x184.jpg"/>
   </programme>
-  <programme start="20261106005000 +0200" stop="20261106022100 +0200" channel="esport3">
+  <programme start="20261106065800 +0200" stop="20261106083100 +0200" channel="esport3">
     <title lang="ca">Onze</title>
+    <desc lang="ca">Raphinha 2030; l'hora de Frenkie i "El consultori"</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1689084008067_326x184.jpg"/>
   </programme>
-  <programme start="20261106022100 +0200" stop="20261106024200 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1758883283889_326x184.jpg"/>
+  <programme start="20261106083100 +0200" stop="20261106091500 +0200" channel="esport3">
+    <title lang="ca">Aire Lliure</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/9/1659604600996_326x184.jpg"/>
   </programme>
-  <programme start="20261106024200 +0200" stop="20261106041300 +0200" channel="esport3">
+  <programme start="20261106091500 +0200" stop="20261106100300 +0200" channel="esport3">
+    <title lang="ca">Aire Lliure</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/9/1659604600996_326x184.jpg"/>
+  </programme>
+  <programme start="20261106100300 +0200" stop="20261106105600 +0200" channel="esport3">
+    <title lang="ca">Experiència Catalana</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/8/1778669332782_326x184.jpg"/>
+  </programme>
+  <programme start="20261106105600 +0200" stop="20261106112600 +0200" channel="esport3">
+    <title lang="ca">GR Pirineus</title>
+    <desc lang="ca">Petits plaers de l'Empordà</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/2/1697637096729_326x184.jpg"/>
+  </programme>
+  <programme start="20261106112600 +0200" stop="20261106130000 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <desc lang="ca">Raphinha 2030; l'hora de Frenkie i "El consultori"</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1689084008067_326x184.jpg"/>
+  </programme>
+  <programme start="20261106130000 +0200" stop="20261106150300 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/3/1630912974030_326x184.jpg"/>
+  </programme>
+  <programme start="20261106150300 +0200" stop="20261106152900 +0200" channel="esport3">
+    <title lang="ca">Catalunya des de l'aire</title>
+    <desc lang="ca">Pla de l'Estany, Garrotxa i Selva</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/7/1717678980879_326x184.jpg"/>
+  </programme>
+  <programme start="20261106152900 +0200" stop="20261106161300 +0200" channel="esport3">
+    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1658909255463_326x184.jpg"/>
+  </programme>
+  <programme start="20261106161300 +0200" stop="20261106165700 +0200" channel="esport3">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1658909255463_326x184.jpg"/>
+  </programme>
+  <programme start="20261106165700 +0200" stop="20261106172300 +0200" channel="esport3">
+    <title lang="ca">Catalunya salvatge</title>
+    <desc lang="ca">Els tresors de Posidó</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/4/1717587057145_326x184.jpg"/>
+  </programme>
+  <programme start="20261106172300 +0200" stop="20261106173800 +0200" channel="esport3">
+    <title lang="ca">Thalassa curts</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1414667576138_326x184.jpg"/>
+  </programme>
+  <programme start="20261106173800 +0200" stop="20261106183900 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/3/1630912974030_326x184.jpg"/>
+  </programme>
+  <programme start="20261106183900 +0200" stop="20261106190000 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <desc lang="ca">Eder Sarabia / Prèvia Espanyol-Depor / J12</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/0/1698687732700_326x184.jpg"/>
+  </programme>
+  <programme start="20261106190000 +0200" stop="20261106203000 +0200" channel="esport3">
     <title lang="ca">Tot Costa</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/3/7/1773845070973_326x184.jpg"/>
   </programme>
-  <programme start="20261106041300 +0200" stop="20261106054900 +0200" channel="esport3">
-    <title lang="ca">Billar a 3 bandes</title>
-    <desc lang="ca">Dani Sánchez-JS Ko / PBA Tour</desc>
+  <programme start="20261106203000 +0200" stop="20261106205500 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/3/1630912974030_326x184.jpg"/>
+  </programme>
+  <programme start="20261106205500 +0200" stop="20261106224600 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <desc lang="ca">Cadí La Seu-Jairis / Lliga / J7</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/2/1647942883529_326x184.jpg"/>
+  </programme>
+  <programme start="20261106224600 +0200" stop="20261106230000 +0200" channel="esport3">
+    <title lang="ca">Top gols La Lliga</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951_326x184.jpg"/>
   </programme>
-  <programme start="20261106054900 +0200" stop="20261106055400 +0200" channel="esport3">
+  <programme start="20261106230000 +0200" stop="20261107003000 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1689084008067_326x184.jpg"/>
+  </programme>
+  <programme start="20261107003000 +0200" stop="20261107005100 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1758883283889_326x184.jpg"/>
+  </programme>
+  <programme start="20261107005100 +0200" stop="20261107022200 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1689084008067_326x184.jpg"/>
+  </programme>
+  <programme start="20261107022200 +0200" stop="20261107024300 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1758883283889_326x184.jpg"/>
+  </programme>
+  <programme start="20261107024300 +0200" stop="20261107042800 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <desc lang="ca">Cadí La Seu-Jairis / Lliga / J7</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/2/1647942883529_326x184.jpg"/>
+  </programme>
+  <programme start="20261107042800 +0200" stop="20261107044900 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1758883283889_326x184.jpg"/>
+  </programme>
+  <programme start="20261107044900 +0200" stop="20261107050900 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <desc lang="ca">Eder Sarabia / Prèvia Espanyol-Depor / J12</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/0/1698687732700_326x184.jpg"/>
+  </programme>
+  <programme start="20261107050900 +0200" stop="20261107053400 +0200" channel="esport3">
     <title lang="ca">E3</title>
-    <desc lang="ca">Eivissa Sprint Triatló</desc>
+    <desc lang="ca">Monster Jam / Seattle / 9</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951_326x184.jpg"/>
   </programme>
-  <programme start="20261106055400 +0200" stop="20261106065400 +0200" channel="esport3">
-    <title lang="ca">Espòiler</title>
-    <desc lang="ca">El Ford Kuga BlueCruise, el Nissan Leaf, el Zeekr 9X i les novetats de Denza.</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1681458627275_326x184.jpg"/>
+  <programme start="20261107053400 +0200" stop="20261107063400 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <desc lang="ca">Monster Jam / East Rutherford / 10</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951_326x184.jpg"/>
   </programme>
   <channel id="tv3cat">
     <display-name>TV3Cat</display-name>
   </channel>
-  <programme start="20261105060000 +0200" stop="20261105080000 +0200" channel="tv3cat">
+  <programme start="20261106060000 +0200" stop="20261106080000 +0200" channel="tv3cat">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261105080000 +0200" stop="20261105103000 +0200" channel="tv3cat">
+  <programme start="20261106080000 +0200" stop="20261106103000 +0200" channel="tv3cat">
     <title lang="ca">Matins</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/3/1758135175231_326x184.jpg"/>
   </programme>
-  <programme start="20261105103000 +0200" stop="20261105135500 +0200" channel="tv3cat">
+  <programme start="20261106103000 +0200" stop="20261106135500 +0200" channel="tv3cat">
     <title lang="ca">Tot es mou</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/5/1747046914351_326x184.jpg"/>
   </programme>
-  <programme start="20261105135500 +0200" stop="20261105143000 +0200" channel="tv3cat">
+  <programme start="20261106135500 +0200" stop="20261106143000 +0200" channel="tv3cat">
     <title lang="ca">Telenotícies comarques</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
   </programme>
-  <programme start="20261105143000 +0200" stop="20261105153000 +0200" channel="tv3cat">
+  <programme start="20261106143000 +0200" stop="20261106153000 +0200" channel="tv3cat">
     <title lang="ca">Telenotícies migdia</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
   </programme>
-  <programme start="20261105153000 +0200" stop="20261105155100 +0200" channel="tv3cat">
-    <title lang="ca">Cuines</title>
-    <desc lang="ca">Steak tàrtar al moll de l'os</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
-  </programme>
-  <programme start="20261105155100 +0200" stop="20261105155900 +0200" channel="tv3cat">
+  <programme start="20261106153000 +0200" stop="20261106155300 +0200" channel="tv3cat">
     <title lang="ca">Cuines</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
   </programme>
-  <programme start="20261105155900 +0200" stop="20261105164100 +0200" channel="tv3cat">
+  <programme start="20261106155300 +0200" stop="20261106160100 +0200" channel="tv3cat">
+    <title lang="ca">Cuines</title>
+    <desc lang="ca">Cuscús de piquillo i cansalada</desc>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1698155238490_326x184.jpg"/>
+  </programme>
+  <programme start="20261106160100 +0200" stop="20261106164200 +0200" channel="tv3cat">
     <title lang="ca">Com si fos ahir</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1676977929474_326x184.jpg"/>
   </programme>
-  <programme start="20261105164100 +0200" stop="20261105171900 +0200" channel="tv3cat">
+  <programme start="20261106164200 +0200" stop="20261106172000 +0200" channel="tv3cat">
     <title lang="ca">La Riera</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/2/8/1472818695582_326x184.jpg"/>
   </programme>
-  <programme start="20261105171900 +0200" stop="20261105172700 +0200" channel="tv3cat">
+  <programme start="20261106172000 +0200" stop="20261106172700 +0200" channel="tv3cat">
     <title lang="ca">Sense títol</title>
-    <desc lang="ca">Crema de formatge fresc amb taronja</desc>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
-  <programme start="20261105172700 +0200" stop="20261105191000 +0200" channel="tv3cat">
+  <programme start="20261106172700 +0200" stop="20261106190900 +0200" channel="tv3cat">
     <title lang="ca">La Selva</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/4/1/1725541911214_326x184.jpg"/>
   </programme>
-  <programme start="20261105191000 +0200" stop="20261105201500 +0200" channel="tv3cat">
+  <programme start="20261106190900 +0200" stop="20261106201300 +0200" channel="tv3cat">
     <title lang="ca">Atrapa'm si pots</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/3/1700643646439_326x184.jpg"/>
   </programme>
-  <programme start="20261105201500 +0200" stop="20261105210000 +0200" channel="tv3cat">
+  <programme start="20261106201300 +0200" stop="20261106210000 +0200" channel="tv3cat">
     <title lang="ca">Està passant</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1757052591567_326x184.jpg"/>
   </programme>
-  <programme start="20261105210000 +0200" stop="20261105220700 +0200" channel="tv3cat">
+  <programme start="20261106210000 +0200" stop="20261106220000 +0200" channel="tv3cat">
     <title lang="ca">Telenotícies vespre</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1758133761768_326x184.jpg"/>
   </programme>
-  <programme start="20261105220700 +0200" stop="20261105224800 +0200" channel="tv3cat">
-    <title lang="ca">Polònia</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/4/1789742207649_326x184.jpg"/>
+  <programme start="20261106220000 +0200" stop="20261106222300 +0200" channel="tv3cat">
+    <title lang="ca">Després de tu</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1643723840154_326x184.jpg"/>
   </programme>
-  <programme start="20261105224800 +0200" stop="20261105230500 +0200" channel="tv3cat">
-    <title lang="ca">Literal</title>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/5/1708083632856_326x184.jpg"/>
+  <programme start="20261106222300 +0200" stop="20261106231300 +0200" channel="tv3cat">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">"T'estaré esperant al Koxka" Aitor</desc>
+    <icon src="/_resources/icones/corporatiu/blanc/mes.svg?v=3.2611.1"/>
   </programme>
-  <programme start="20261105230500 +0200" stop="20261105234900 +0200" channel="tv3cat">
-    <title lang="ca">APM?</title>
-    <icon src="https://img.3cat.cat/multimedia/png/7/3/1694788403037_326x184.png"/>
+  <programme start="20261106231300 +0200" stop="20261107000300 +0200" channel="tv3cat">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">"Junts, però lluny d'aquí" Itsaso</desc>
+    <icon src="/_resources/icones/corporatiu/blanc/mes.svg?v=3.2611.1"/>
   </programme>
-  <programme start="20261105234900 +0200" stop="20261106003800 +0200" channel="tv3cat">
-    <title lang="ca">Nervi</title>
-    <desc lang="ca">Ningú està preparat per triomfar, amb Miguel Ángel Blanca i Berta Prieto</desc>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/4/1791196851941_326x184.jpg"/>
+  <programme start="20261107000300 +0200" stop="20261107005300 +0200" channel="tv3cat">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">"Abans era abans" Urko</desc>
+    <icon src="/_resources/icones/corporatiu/blanc/mes.svg?v=3.2611.1"/>
   </programme>
-  <programme start="20261106003800 +0200" stop="20261106022500 +0200" channel="tv3cat">
+  <programme start="20261107005300 +0200" stop="20261107014400 +0200" channel="tv3cat">
+    <title lang="ca">Sense títol</title>
+    <desc lang="ca">"Els detalls són més importants que la veritat" Leire</desc>
+    <icon src="/_resources/icones/corporatiu/blanc/mes.svg?v=3.2611.1"/>
+  </programme>
+  <programme start="20261107014400 +0200" stop="20261107015400 +0200" channel="tv3cat">
+    <title lang="ca">Gran!</title>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1714398255920_326x184.jpg"/>
+  </programme>
+  <programme start="20261107015400 +0200" stop="20261107030900 +0200" channel="tv3cat">
     <title lang="ca">Mésnit</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/2/1758101367527_326x184.jpg"/>
   </programme>
-  <programme start="20261106022500 +0200" stop="20261106043000 +0200" channel="tv3cat">
+  <programme start="20261107030900 +0200" stop="20261107043000 +0200" channel="tv3cat">
     <title lang="ca">Notícies 3CatInfo</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1758059308809_326x184.jpg"/>
   </programme>
-  <programme start="20261106043000 +0200" stop="20261106051400 +0200" channel="tv3cat">
+  <programme start="20261107043000 +0200" stop="20261107051400 +0200" channel="tv3cat">
     <title lang="ca">Cava de Blues</title>
     <icon src="https://img.3cat.cat/multimedia/jpg/3/8/1743747475683_326x184.jpg"/>
   </programme>
-  <programme start="20261106051400 +0200" stop="20261106061400 +0200" channel="tv3cat">
+  <programme start="20261107051400 +0200" stop="20261107061400 +0200" channel="tv3cat">
     <title lang="ca">Fusió i swing a l'estudi</title>
+    <desc lang="ca">JOAN SANMARTÍ "QUATRE ELEMENTS"</desc>
     <icon src="https://img.3cat.cat/multimedia/jpg/3/8/1744619594783_326x184.jpg"/>
   </programme>
 </tv>
